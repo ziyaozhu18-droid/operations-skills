@@ -9,15 +9,15 @@
 将以下整段话发给你正在使用、且支持 Skills 的 AI 助手：
 
 > 请安装并启用「需求沟通助手」这个 Skill：
-> https://github.com/ziyaozhu18-droid/finka-operations-skills/tree/main/skills/requirement-communication-assistant
+> https://github.com/ziyaozhu18-droid/requirement-communication-assistant/tree/main/skills/requirement-communication-assistant
 > 安装完成后，请直接用它帮助我梳理运营需求；不需要再让我选择其他 Skill。
 
 安装后，直接说“帮我梳理一个运营需求”，再附上你的想法、资料或飞书链接即可。
 
 ## 工作边界
 
-- 嗒哒：仅基于当前可访问的飞书资料做只读核验；资料不足时明确写为“未发现依据”。
-- 翻咔：按当前**无法发版**约束，只给出现有资源、运营流程、内容策略或人工执行范围内的方案；任何现网或产品决策不确定项均为 `需产品确认`。
+- 可检索项目：仅基于当前可访问的资料做只读核验；资料不足时明确写为“未发现依据”。
+- 受限项目：按当前**无法发版**约束，只给出现有资源、运营流程、内容策略或人工执行范围内的方案；任何现网或产品决策不确定项均为 `需产品确认`。
 
 ## 更新
 
